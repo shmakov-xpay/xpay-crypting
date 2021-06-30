@@ -13,7 +13,7 @@
   "description": "Simplify work with xpay api",
   "license": "MIT",
   "type": "library",
-  "name": "xpay/crypting",
+  "name": "xpay-crypting/crypting",
   "extra": {
     "branch-alias": {
       "dev-master": "0.1.x-dev"
