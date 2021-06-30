@@ -19,7 +19,9 @@
       "dev-master": "0.1.x-dev"
     }
   },
+  "minimum-stability": "stable",
   "require": {
+    "php": ">=7.2",
     "phpseclib/phpseclib": "^2.0",
     "ext-openssl": "*"
   }
