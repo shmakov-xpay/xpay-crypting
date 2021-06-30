@@ -1,7 +1,7 @@
 # Library for Xpay
 
 This library aims to perform cryptographic operations for interaction with [XPay](https://xpay.com.ua/).
-
+composer require xpay-crypting/crypting
 
 ### Key generation
 This command will create 2 files in a current directory. Send a public key to XPayua. **Never share the private-key**.
