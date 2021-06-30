@@ -1,0 +1,26 @@
+{
+  "authors": [
+    {
+      "name": "Alex Shmakov",
+      "email": "o.shmakov@xpay.com.ua"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Xpay\\Crypt\\": "src/Xpay"
+    }
+  },
+  "description": "Simplify work with xpay api",
+  "license": "MIT",
+  "type": "library",
+  "name": "xpay/crypting",
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.x-dev"
+    }
+  },
+  "require": {
+    "phpseclib/phpseclib": "^2.0",
+    "ext-openssl": "*"
+  }
+}
